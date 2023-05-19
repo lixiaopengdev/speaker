@@ -1,0 +1,23 @@
+PODS:
+  - onnxruntime-c (1.14.0)
+  - SpeakerEmbeddingForiOS (0.1.5):
+    - onnxruntime-c
+
+DEPENDENCIES:
+  - SpeakerEmbeddingForiOS (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - onnxruntime-c
+
+EXTERNAL SOURCES:
+  SpeakerEmbeddingForiOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  onnxruntime-c: 1f5923e555122d12239a1173229d6c5e8a0afd3e
+  SpeakerEmbeddingForiOS: c909907d3c41970fcbc54a717d0ac1b9d284fa16
+
+PODFILE CHECKSUM: 50820966faa81e412c9ee508f65ee239f30f7828
+
+COCOAPODS: 1.11.3

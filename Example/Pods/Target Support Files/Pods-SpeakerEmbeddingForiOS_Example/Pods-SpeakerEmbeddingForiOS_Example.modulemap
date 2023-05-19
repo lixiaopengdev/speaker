@@ -1,0 +1,6 @@
+framework module Pods_SpeakerEmbeddingForiOS_Example {
+  umbrella header "Pods-SpeakerEmbeddingForiOS_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
